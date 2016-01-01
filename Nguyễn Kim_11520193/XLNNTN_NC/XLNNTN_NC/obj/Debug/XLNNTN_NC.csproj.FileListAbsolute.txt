@@ -1,0 +1,12 @@
+c:\users\kim\documents\visual studio 2013\Projects\XLNNTN_NC\XLNNTN_NC\bin\Debug\XLNNTN_NC.exe.config
+c:\users\kim\documents\visual studio 2013\Projects\XLNNTN_NC\XLNNTN_NC\bin\Debug\XLNNTN_NC.exe
+c:\users\kim\documents\visual studio 2013\Projects\XLNNTN_NC\XLNNTN_NC\bin\Debug\XLNNTN_NC.pdb
+c:\users\kim\documents\visual studio 2013\Projects\XLNNTN_NC\XLNNTN_NC\obj\Debug\XLNNTN_NC.csprojResolveAssemblyReference.cache
+c:\users\kim\documents\visual studio 2013\Projects\XLNNTN_NC\XLNNTN_NC\obj\Debug\XLNNTN_NC.Form1.resources
+c:\users\kim\documents\visual studio 2013\Projects\XLNNTN_NC\XLNNTN_NC\obj\Debug\XLNNTN_NC.Properties.Resources.resources
+c:\users\kim\documents\visual studio 2013\Projects\XLNNTN_NC\XLNNTN_NC\obj\Debug\XLNNTN_NC.csproj.GenerateResource.Cache
+c:\users\kim\documents\visual studio 2013\Projects\XLNNTN_NC\XLNNTN_NC\obj\Debug\XLNNTN_NC.exe
+c:\users\kim\documents\visual studio 2013\Projects\XLNNTN_NC\XLNNTN_NC\obj\Debug\XLNNTN_NC.pdb
+C:\Users\Kim\Desktop\Nguyễn Kim_11520193\XLNNTN_NC\XLNNTN_NC\bin\Debug\XLNNTN_NC.exe.config
+C:\Users\Kim\Desktop\Nguyễn Kim_11520193\XLNNTN_NC\XLNNTN_NC\obj\Debug\XLNNTN_NC.exe
+C:\Users\Kim\Desktop\Nguyễn Kim_11520193\XLNNTN_NC\XLNNTN_NC\obj\Debug\XLNNTN_NC.pdb
